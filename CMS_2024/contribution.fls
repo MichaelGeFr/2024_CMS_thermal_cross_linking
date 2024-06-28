@@ -672,75 +672,27 @@ INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\utxsyc.fd
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\utxsyc.fd
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\utxsyc.fd
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\utxsyc.fd
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txexa.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txexa.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txexa.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txi.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txr.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txr.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txmi.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txmi.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txmi.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsy.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsy.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsy.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txex.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txex.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txex.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txi.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txi.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txmia.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txmia.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txmia.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\utxsyc.fd
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\utxsyc.fd
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\utxsyc.fd
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\utxsyc.fd
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txexa.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txexa.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txexa.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txi.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txb.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txr.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txmi.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txmi.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsy.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsy.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txex.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txex.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txi.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txi.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txmia.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txmia.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txexa.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txexa.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\tcxr.tfm
 INPUT .\Definitions\elsevier-logo-5p.pdf
 INPUT Definitions\elsevier-logo-5p.pdf
 INPUT .\Definitions\elsevier-logo-5p.pdf
@@ -800,12 +752,6 @@ INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxr.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txr.vf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmr.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxr.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txr.vf
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmr.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxr.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txi.vf
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmri.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxi.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txi.vf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmri.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxi.tfm
@@ -823,41 +769,57 @@ INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxi.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txb.vf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmb.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxb.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txr.vf
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmr.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxr.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txi.vf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmri.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxi.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\tcxr.vf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtcxr.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\tcxr.vf
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtcxr.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\tcxr.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txr.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txmi.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txmi.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsy.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsy.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txex.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txex.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txi.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txmia.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txmia.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txexa.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txexa.tfm
 INPUT .\Definitions\gr1.pdf
 INPUT Definitions\gr1.pdf
 INPUT .\Definitions\gr1.pdf
 INPUT .\Definitions\gr1.pdf
 INPUT .\Definitions\gr1.pdf
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txbi.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\tcxr.vf
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtcxr.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txr.vf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmr.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxr.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txr.vf
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmr.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxr.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txbi.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txmi.vf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxmi.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txbi.vf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmbi.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxbi.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txr.vf
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmr.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxr.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txmi.vf
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxmi.tfm
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmri.tfm
 INPUT .\contribution.bbl
 INPUT contribution.bbl
 INPUT .\contribution.bbl
 INPUT contribution.bbl
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt8.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txmi.vf
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxmi.tfm
-INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmri.tfm
 INPUT contribution.aux
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt8.pfb
