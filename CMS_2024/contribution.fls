@@ -1,7 +1,7 @@
 PWD c:\Users\M.Frank\Documents\GitHub\2024_CMS_thermal_cross_linking\CMS_2024
 INPUT C:\Users\M.Frank\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\M.Frank\Documents\GitHub\2024_CMS_thermal_cross_linking\CMS_2024\PROCIR_CMS_2023.tex
-OUTPUT PROCIR_CMS_2023.log
+INPUT c:\Users\M.Frank\Documents\GitHub\2024_CMS_thermal_cross_linking\CMS_2024\contribution.tex
+OUTPUT contribution.log
 INPUT .\Definitions\elsarticle.cls
 INPUT .\Definitions\elsarticle.cls
 INPUT Definitions\elsarticle.cls
@@ -105,10 +105,10 @@ INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\psnfss\upsy.fd
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\psnfss\upsy.fd
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\psnfss\upsy.fd
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\symbol\psyr.tfm
-INPUT .\PROCIR_CMS_2023.spl
-INPUT PROCIR_CMS_2023.spl
-INPUT .\PROCIR_CMS_2023.spl
-INPUT PROCIR_CMS_2023.spl
+INPUT .\contribution.spl
+INPUT contribution.spl
+INPUT .\contribution.spl
+INPUT contribution.spl
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\natbib\natbib.sty
@@ -120,7 +120,7 @@ INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\natbib\natbib.sty
-OUTPUT PROCIR_CMS_2023.spl
+OUTPUT contribution.spl
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
@@ -575,10 +575,10 @@ INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\PROCIR_CMS_2023.aux
-INPUT PROCIR_CMS_2023.aux
-INPUT PROCIR_CMS_2023.aux
-OUTPUT PROCIR_CMS_2023.aux
+INPUT .\contribution.aux
+INPUT contribution.aux
+INPUT contribution.aux
+OUTPUT contribution.aux
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\omltxmi.fd
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\omltxmi.fd
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\omltxmi.fd
@@ -633,7 +633,7 @@ INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
-OUTPUT PROCIR_CMS_2023.pdf
+OUTPUT contribution.pdf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txr.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txb.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\ts1txr.fd
@@ -850,10 +850,17 @@ INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxbi.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txr.vf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmr.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxr.tfm
+INPUT .\contribution.bbl
+INPUT contribution.bbl
+INPUT .\contribution.bbl
+INPUT contribution.bbl
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt8.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txmi.vf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxmi.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmri.tfm
-INPUT PROCIR_CMS_2023.aux
+INPUT contribution.aux
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt8.pfb
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\type1\public\txfonts\rtcxr.pfb
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\type1\public\txfonts\rtcxr.pfb
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\type1\public\txfonts\rtxi.pfb
