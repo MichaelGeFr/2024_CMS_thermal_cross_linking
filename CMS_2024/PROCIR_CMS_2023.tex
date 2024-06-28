@@ -1,42 +1,8 @@
-% Template for Elsevier CRC journal article
-% version 1.2 dated 09 May 2011
-
-% This file (c) 2009-2011 Elsevier Ltd.  Modifications may be freely made,
-% provided the edited file is saved under a different name
-
-% This file contains modifications for Transportation Research Procedia
-
-% Changes since version 1.1
-% - added "procedia" option compliant with ecrc.sty version 1.2a
-%   (makes the layout approximately the same as the Word CRC template)
-% - added example for generating copyright line in abstract
-
-%-----------------------------------------------------------------------------------
-
-%% This template uses the elsarticle.cls document class and the extension package ecrc.sty
-%% For full documentation on usage of elsarticle.cls, consult the documentation "elsdoc.pdf"
-%% Further resources available at http://www.elsevier.com/latex
-
-%-----------------------------------------------------------------------------------
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%                                                          %%
-%% Important note on usage                                  %%
-%% -----------------------                                  %%
-%% This file should normally be compiled with PDFLaTeX      %%
-%% Using standard LaTeX should work but may produce clashes %%
-%%                                                          %%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%% The '3p' and 'times' class options of elsarticle are used for Elsevier CRC
-%% The 'procedia' option causes ecrc to approximate to the Word template
-\documentclass[5p,times,procedia]{elsarticle}
+\documentclass[5p,times,procedia]{Definitions/elsarticle}
 \flushbottom
 
 %% The `ecrc' package must be called to make the CRC functionality available
-\usepackage{ecrc}
+\usepackage{Definitions/ecrc}
 %\usepackage{amsmath}
 
 
@@ -164,13 +130,12 @@
 
 
 
-\author[a]{First Author} 
-\author[b]{Second Author}
-\author[a,b]{Third Author\corref{*}}
+\author[a]{Michael Frank\corref{*}} 
+\author[a]{Fabian Borst}
+\author[a]{Lukas Theisinger}
 %\ead{author@institute.xxx}
 
 \address[a]{First affiliation, Address, City and Postcode, Country}
-\address[b]{Second affiliation, Address, City and Postcode, Country}
 
 \aucores{* Corresponding author. Tel.: +0-000-000-0000 ; fax: +0-000-000-0000. {\it E-mail address:} author@institute.xxx}
 
@@ -291,7 +256,7 @@ Component types:
 
 \begin{figure*}[t]\vspace*{4pt}
 %\centerline{\includegraphics{fx1}\hspace*{5mm}\includegraphics{fx1}}
-\centerline{\includegraphics{gr1}}
+\centerline{\includegraphics{Definitions/gr1}}
 \caption{(a) first picture; (b) second picture.}
 \end{figure*}
 
@@ -391,10 +356,10 @@ of HTR Fuel Elements in Aquatic Phases of Repository Host Rock Formations. Nucle
 
 The zip package is created as per the guide lines present on the URL http://www.elsevier.com/author-schemas/ preparing-crc-journal-articles-with-latex for creating the LaTeX zip file of Procedia LaTeX template.  The zip generally contains the following files:
 \begin{Itemize}[]\leftskip-12.7pt\labelsep3.3pt
-\item ecrc.sty
-\item  elsarticle.cls
-\item elsdoc.pdf
-\item elsarticle-num.bst file
+\item Definitions/ecrc.sty
+\item  Definitions/elsarticle.cls
+\item Definitions/elsdoc.pdf
+\item Definitions/elsarticle-num.bst file
 \item Manuscript templates for use with these bibliographic styles
 \item  Generic and journal specific logos, etc.
 \end{Itemize}
