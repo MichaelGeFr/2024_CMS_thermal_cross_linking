@@ -1,42 +1,8 @@
-% Template for Elsevier CRC journal article
-% version 1.2 dated 09 May 2011
-
-% This file (c) 2009-2011 Elsevier Ltd.  Modifications may be freely made,
-% provided the edited file is saved under a different name
-
-% This file contains modifications for Transportation Research Procedia
-
-% Changes since version 1.1
-% - added "procedia" option compliant with ecrc.sty version 1.2a
-%   (makes the layout approximately the same as the Word CRC template)
-% - added example for generating copyright line in abstract
-
-%-----------------------------------------------------------------------------------
-
-%% This template uses the elsarticle.cls document class and the extension package ecrc.sty
-%% For full documentation on usage of elsarticle.cls, consult the documentation "elsdoc.pdf"
-%% Further resources available at http://www.elsevier.com/latex
-
-%-----------------------------------------------------------------------------------
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%                                                          %%
-%% Important note on usage                                  %%
-%% -----------------------                                  %%
-%% This file should normally be compiled with PDFLaTeX      %%
-%% Using standard LaTeX should work but may produce clashes %%
-%%                                                          %%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%% The '3p' and 'times' class options of elsarticle are used for Elsevier CRC
-%% The 'procedia' option causes ecrc to approximate to the Word template
-\documentclass[5p,times,procedia]{elsarticle}
+\documentclass[5p,times,procedia]{Definitions/elsarticle}
 \flushbottom
 
 %% The `ecrc' package must be called to make the CRC functionality available
-\usepackage{ecrc}
+\usepackage{Definitions/ecrc}
 %\usepackage{amsmath}
 
 
@@ -153,7 +119,7 @@
 %% \address{Address\fnref{label3}}
 %% \fntext[label3]{}
 
-\dochead{55th CIRP Conference on Manufacturing Systems}%
+\dochead{58th CIRP Conference on Manufacturing Systems}%
 
 \title{Insert here, the title of your paper, Capitalize first letter}
 
@@ -164,15 +130,14 @@
 
 
 
-\author[a]{First Author} 
-\author[b]{Second Author}
-\author[a,b]{Third Author\corref{*}}
+\author[a]{Michael Frank\corref{*}} 
+\author[a]{Fabian Borst}
+\author[a]{Lukas Theisinger}
 %\ead{author@institute.xxx}
 
-\address[a]{First affiliation, Address, City and Postcode, Country}
-\address[b]{Second affiliation, Address, City and Postcode, Country}
+\address[a]{Institute for Production Management, Technology and Machine Tools (PTW), Technical University of Darmstadt, Otto-Berndt-Str. 2, 64287 Darmstadt, Germany}
 
-\aucores{* Corresponding author. Tel.: +0-000-000-0000 ; fax: +0-000-000-0000. {\it E-mail address:} author@institute.xxx}
+\aucores{* Corresponding author. Tel.: +49-6151-8229-643. {\it E-mail address:} m.frank@ptw.tu-darmstadt.de}
 
 \begin{abstract}
 %% Text of abstract
@@ -182,12 +147,6 @@ Insert here your abstract text. Abstract is a maximum of 100 words.
 \begin{keyword}
 Type your keywords here, separated by semicolons ; 
 
-%% keywords here, in the form: keyword \sep keyword
-
-%% PACS codes here, in the form: \PACS code \sep code
-
-%% MSC codes here, in the form: \MSC code \sep code
-%% or \MSC[2008] code \sep code (2000 is the default)
 
 \end{keyword}
 %\cortext[cor1]{Corresponding author. Tel.: +0-000-000-0000 ; fax: +0-000-000-0000.}
@@ -251,9 +210,9 @@ And another entry &  5 &  6\\
 
 %\enlargethispage{12pt}
 
-\subsection{ Construction of references}
+\subsection{Construction of references}
 
-References must be listed at the end of the paper. Do not begin them on a new page unless this is absolutely necessary. Authors should ensure that every reference in the text appears in the list of references and vice versa. Indicate references by \cite{clark} or \cite{Deal} or \cite{Fachinger2006} in the text. 
+References must be listed at the end of the paper. Do not begin them on a new page unless this is absolutely necessary. Authors should ensure that every reference in the text appears in the list of references and vice versa. Indicate references by \cite{Fridgen.2020} or in the text. 
 
 Some examples of how your references should be listed are given at the end of this template in the `References' section, which will allow you to assemble your reference list according to the correct format and font size.
 
@@ -291,7 +250,7 @@ Component types:
 
 \begin{figure*}[t]\vspace*{4pt}
 %\centerline{\includegraphics{fx1}\hspace*{5mm}\includegraphics{fx1}}
-\centerline{\includegraphics{gr1}}
+\centerline{\includegraphics{Definitions/gr1}}
 \caption{(a) first picture; (b) second picture.}
 \end{figure*}
 
@@ -346,64 +305,12 @@ There is also the option to include a subheading within the Appendix if you wish
 %% Usage of \cite is as follows:
 %%   \cite{key}         ==>>  [#]
 %%   \cite[chap. 2]{key} ==>> [#, chap. 2]
-%%
 
-%The citation must be used in following style: \cite{article-minimal} \cite{article-full} \cite{article-crossref} \cite{whole-journal}.
-%% References with BibTeX database:
-
-%\bibliography{xampl}
-%\bibliographystyle{elsarticle-num}
-
+\bibliographystyle{Definitions/elsarticle-num.bst}
+\bibliography{Definitions/bibliography.bib}
+%
 
 %% Authors are advised to use a BibTeX database file for their reference list.
 %% The provided style file elsarticle-num.bst formats references in the required Procedia style
-
-%% For references without a BibTeX database:
-
- \begin{thebibliography}{00}
-
-%% \bibitem must have the following form:
-%%   \bibitem{key}...
-%%
-
-\bibitem[Clark et al.(1962)]{clark}Clark, T., Woodley, R., De Halas, D., 1962. Gas-Graphite Systems, in ``{\it Nuclear Graphite}''. 
-In: Nightingale, R. (Ed.). Academic Press, New York, pp. 387.
-
-\bibitem[Deal and Grove(2009) ]{Deal}Deal, B., Grove, A., 1965. General Relationship for the Thermal Oxidation of Silicon. Journal of Applied Physics 36.2, 37--70.
-
-\bibitem[Deep(2009)]{Deep}Deep-Burn Project: Annual Report for 2009, Idaho National Laboratory, Sept. 2009.
-
-\bibitem[Fachinger(2004)]{Fachinger2004}Fachinger, J., den Exter, M., Grambow, B., Holgerson, S., Landesmann, C., Titov, M., Podruhzina, T., 2004. ``Behavior of spent HTR fuel elements in aquatic phases of repository host rock formations,'' 2nd International Topical Meeting on High Temperature Reactor Technology. Beijing, China, paper \#B08. 
-
-\bibitem[Fachinger(2006)]{Fachinger2006}Fachinger, J., 2006. Behavior
-of HTR Fuel Elements in Aquatic Phases of Repository Host Rock Formations. Nuclear Engineering \& Design 236.3,      54.
-
- \end{thebibliography}
-
-\clearpage\onecolumn
-
-%%%% This page is for instructions only, once the article is finalize please omit the below text before creating the final PDF
-\normalMode
-
-\section*{Instructions to Authors for LaTeX template:}
-
-\section{ZIP mode for LaTeX template:}
-
-The zip package is created as per the guide lines present on the URL http://www.elsevier.com/author-schemas/ preparing-crc-journal-articles-with-latex for creating the LaTeX zip file of Procedia LaTeX template.  The zip generally contains the following files:
-\begin{Itemize}[]\leftskip-12.7pt\labelsep3.3pt
-\item ecrc.sty
-\item  elsarticle.cls
-\item elsdoc.pdf
-\item elsarticle-num.bst file
-\item Manuscript templates for use with these bibliographic styles
-\item  Generic and journal specific logos, etc.
-\end{Itemize}
-
-The LaTeX package is the main LaTeX template. All LaTeX support files are required for LaTeX pdf generation from the LaTeX template package. 
-
-{\bf Reference style .bst file used for collaboration support:} In the LaTeX template packages of all Procedia titles a new ``.bst'' file is used which supports collaborations downloaded from the path http://www.elsevier.com/author-schemas/the-elsarticle-latex-document-class
-
+%
 \end{document}
-
-%%
-%% End of file.

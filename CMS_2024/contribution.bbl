@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Fridgen.2020}
+{Gilbert Fridgen}, {Robert Keller}, {Marc-Fabian K{\"o}rner}, {Michael
+  Sch{\"o}pf},
+  \href{https://www.sciencedirect.com/science/article/pii/S0301421520306248}{A
+  holistic view on sector coupling}, Energy Policy 147 (2020) 111913.
+\newblock \href {https://doi.org/10.1016/j.enpol.2020.111913}
+  {\path{doi:10.1016/j.enpol.2020.111913}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0301421520306248}
+
+\end{thebibliography}

@@ -1,18 +1,18 @@
 PWD c:\Users\M.Frank\Documents\GitHub\2024_CMS_thermal_cross_linking\CMS_2024
 INPUT C:\Users\M.Frank\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\M.Frank\Documents\GitHub\2024_CMS_thermal_cross_linking\CMS_2024\PROCIR_CMS_2023.tex
-OUTPUT PROCIR_CMS_2023.log
-INPUT .\elsarticle.cls
-INPUT .\elsarticle.cls
-INPUT elsarticle.cls
-INPUT .\elsarticle.cls
-INPUT .\elsarticle.cls
-INPUT .\elsarticle.cls
-INPUT .\elsarticle.cls
-INPUT .\elsarticle.cls
-INPUT elsarticle.cls
-INPUT .\elsarticle.cls
-INPUT elsarticle.cls
+INPUT c:\Users\M.Frank\Documents\GitHub\2024_CMS_thermal_cross_linking\CMS_2024\contribution.tex
+OUTPUT contribution.log
+INPUT .\Definitions\elsarticle.cls
+INPUT .\Definitions\elsarticle.cls
+INPUT Definitions\elsarticle.cls
+INPUT .\Definitions\elsarticle.cls
+INPUT .\Definitions\elsarticle.cls
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\elsarticle\elsarticle.cls
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\elsarticle\elsarticle.cls
+INPUT .\Definitions\elsarticle.cls
+INPUT Definitions\elsarticle.cls
+INPUT .\Definitions\elsarticle.cls
+INPUT Definitions\elsarticle.cls
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\txfonts.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\txfonts.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
@@ -105,10 +105,10 @@ INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\psnfss\upsy.fd
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\psnfss\upsy.fd
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\psnfss\upsy.fd
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\symbol\psyr.tfm
-INPUT .\PROCIR_CMS_2023.spl
-INPUT PROCIR_CMS_2023.spl
-INPUT .\PROCIR_CMS_2023.spl
-INPUT PROCIR_CMS_2023.spl
+INPUT .\contribution.spl
+INPUT contribution.spl
+INPUT .\contribution.spl
+INPUT contribution.spl
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\natbib\natbib.sty
@@ -120,7 +120,7 @@ INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\natbib\natbib.sty
-OUTPUT PROCIR_CMS_2023.spl
+OUTPUT contribution.spl
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
@@ -163,17 +163,17 @@ INPUT C:\Program Files\MiKTeX\tex\latex\base\fleqn.clo
 INPUT C:\Program Files\MiKTeX\tex\latex\base\fleqn.clo
 INPUT C:\Program Files\MiKTeX\tex\latex\base\fleqn.clo
 INPUT C:\Program Files\MiKTeX\tex\latex\base\fleqn.clo
-INPUT .\framed.sty
-INPUT .\framed.sty
-INPUT framed.sty
-INPUT .\framed.sty
-INPUT .\framed.sty
-INPUT .\framed.sty
-INPUT .\framed.sty
-INPUT .\framed.sty
-INPUT framed.sty
-INPUT .\framed.sty
-INPUT framed.sty
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\txfonts.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\txfonts.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\txfonts.sty
@@ -185,17 +185,15 @@ INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\txfonts.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\txfonts.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\txfonts.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\txfonts.sty
-INPUT .\ecrc.sty
-INPUT .\ecrc.sty
-INPUT ecrc.sty
-INPUT .\ecrc.sty
-INPUT .\ecrc.sty
-INPUT .\ecrc.sty
-INPUT .\ecrc.sty
-INPUT .\ecrc.sty
-INPUT ecrc.sty
-INPUT .\ecrc.sty
-INPUT ecrc.sty
+INPUT .\Definitions\ecrc.sty
+INPUT .\Definitions\ecrc.sty
+INPUT Definitions\ecrc.sty
+INPUT .\Definitions\ecrc.sty
+INPUT .\Definitions\ecrc.sty
+INPUT .\Definitions\ecrc.sty
+INPUT Definitions\ecrc.sty
+INPUT .\Definitions\ecrc.sty
+INPUT Definitions\ecrc.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\base\fleqn.clo
@@ -577,10 +575,10 @@ INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\PROCIR_CMS_2023.aux
-INPUT PROCIR_CMS_2023.aux
-INPUT PROCIR_CMS_2023.aux
-OUTPUT PROCIR_CMS_2023.aux
+INPUT .\contribution.aux
+INPUT contribution.aux
+INPUT contribution.aux
+OUTPUT contribution.aux
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\omltxmi.fd
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\omltxmi.fd
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\omltxmi.fd
@@ -635,7 +633,7 @@ INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
-OUTPUT PROCIR_CMS_2023.pdf
+OUTPUT contribution.pdf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txr.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txb.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\ts1txr.fd
@@ -743,47 +741,47 @@ INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txsyc.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txexa.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txexa.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\tcxr.tfm
-INPUT .\elsevier-logo-5p.pdf
-INPUT elsevier-logo-5p.pdf
-INPUT .\elsevier-logo-5p.pdf
-INPUT .\elsevier-logo-5p.pdf
-INPUT .\elsevier-logo-5p.pdf
+INPUT .\Definitions\elsevier-logo-5p.pdf
+INPUT Definitions\elsevier-logo-5p.pdf
+INPUT .\Definitions\elsevier-logo-5p.pdf
+INPUT .\Definitions\elsevier-logo-5p.pdf
+INPUT .\Definitions\elsevier-logo-5p.pdf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\ot1txss.fd
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\ot1txss.fd
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\ot1txss.fd
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex\latex\txfonts\ot1txss.fd
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txss.tfm
-INPUT .\SDlogo-5p.pdf
-INPUT SDlogo-5p.pdf
-INPUT .\SDlogo-5p.pdf
-INPUT .\SDlogo-5p.pdf
-INPUT .\SDlogo-5p.pdf
-INPUT .\Procir.eps
-INPUT Procir.eps
-INPUT .\Procir.eps
-INPUT .\Procir.eps
-INPUT .\Procir-eps-converted-to.pdf
-INPUT .\Procir-eps-converted-to.pdf
-INPUT .\Procir.eps
-INPUT .\Procir-eps-converted-to.pdf
-INPUT .\Procir-eps-converted-to.pdf
-INPUT .\Procir-eps-converted-to.pdf
-INPUT .\Procir-eps-converted-to.pdf
-INPUT .\elsevier-logo-5p.pdf
-INPUT elsevier-logo-5p.pdf
-INPUT .\elsevier-logo-5p.pdf
-INPUT .\SDlogo-5p.pdf
-INPUT SDlogo-5p.pdf
-INPUT .\SDlogo-5p.pdf
-INPUT .\Procir.eps
-INPUT Procir.eps
-INPUT .\Procir.eps
-INPUT .\Procir.eps
-INPUT .\Procir-eps-converted-to.pdf
-INPUT .\Procir-eps-converted-to.pdf
-INPUT .\Procir.eps
-INPUT .\Procir-eps-converted-to.pdf
-INPUT .\Procir-eps-converted-to.pdf
+INPUT .\Definitions\SDlogo-5p.pdf
+INPUT Definitions\SDlogo-5p.pdf
+INPUT .\Definitions\SDlogo-5p.pdf
+INPUT .\Definitions\SDlogo-5p.pdf
+INPUT .\Definitions\SDlogo-5p.pdf
+INPUT .\Definitions\Procir.eps
+INPUT Definitions\Procir.eps
+INPUT .\Definitions\Procir.eps
+INPUT .\Definitions\Procir.eps
+INPUT .\Definitions\Procir-eps-converted-to.pdf
+INPUT .\Definitions\Procir-eps-converted-to.pdf
+INPUT .\Definitions\Procir.eps
+INPUT .\Definitions\Procir-eps-converted-to.pdf
+INPUT .\Definitions\Procir-eps-converted-to.pdf
+INPUT .\Definitions\Procir-eps-converted-to.pdf
+INPUT .\Definitions\Procir-eps-converted-to.pdf
+INPUT .\Definitions\elsevier-logo-5p.pdf
+INPUT Definitions\elsevier-logo-5p.pdf
+INPUT .\Definitions\elsevier-logo-5p.pdf
+INPUT .\Definitions\SDlogo-5p.pdf
+INPUT Definitions\SDlogo-5p.pdf
+INPUT .\Definitions\SDlogo-5p.pdf
+INPUT .\Definitions\Procir.eps
+INPUT Definitions\Procir.eps
+INPUT .\Definitions\Procir.eps
+INPUT .\Definitions\Procir.eps
+INPUT .\Definitions\Procir-eps-converted-to.pdf
+INPUT .\Definitions\Procir-eps-converted-to.pdf
+INPUT .\Definitions\Procir.eps
+INPUT .\Definitions\Procir-eps-converted-to.pdf
+INPUT .\Definitions\Procir-eps-converted-to.pdf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\tcxr.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txss.vf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxphvr.tfm
@@ -835,11 +833,11 @@ INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\tcxr.vf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtcxr.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\tcxr.vf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtcxr.tfm
-INPUT .\gr1.pdf
-INPUT gr1.pdf
-INPUT .\gr1.pdf
-INPUT .\gr1.pdf
-INPUT .\gr1.pdf
+INPUT .\Definitions\gr1.pdf
+INPUT Definitions\gr1.pdf
+INPUT .\Definitions\gr1.pdf
+INPUT .\Definitions\gr1.pdf
+INPUT .\Definitions\gr1.pdf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\txbi.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txr.vf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmr.tfm
@@ -852,10 +850,17 @@ INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxbi.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txr.vf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmr.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxr.tfm
+INPUT .\contribution.bbl
+INPUT contribution.bbl
+INPUT .\contribution.bbl
+INPUT contribution.bbl
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt8.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txmi.vf
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxmi.tfm
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmri.tfm
-INPUT PROCIR_CMS_2023.aux
+INPUT contribution.aux
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt8.pfb
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\type1\public\txfonts\rtcxr.pfb
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\type1\public\txfonts\rtcxr.pfb
 INPUT C:\Users\M.Frank\AppData\Roaming\MiKTeX\fonts\type1\public\txfonts\rtxi.pfb
