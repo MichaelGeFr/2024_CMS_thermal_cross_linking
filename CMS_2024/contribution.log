@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2024.4.26)  29 JUN 2024 14:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2024.4.26)  9 JUL 2024 10:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -691,62 +691,59 @@ Package color Info: Driver file: pdftex.def on input line 149.
  (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 98.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <9> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 142.
-LaTeX Font Info:    Trying to load font information for TS1+txr on input line 146.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 141.
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 145.
  (C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex/latex/txfonts\ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txmia on input line 154.
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 153.
  (C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 154.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 153.
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 154.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 153.
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+txsyc on input line 154.
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 153.
  (C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 159.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 158.
 
-Underfull \hbox (badness 10000) detected at line 167
+Underfull \hbox (badness 10000) detected at line 173
 \OT1/txr/m/n/10 A 
  []
 
 
-Underfull \hbox (badness 10000) detected at line 168
+Underfull \hbox (badness 10000) detected at line 174
 \OT1/txr/m/n/10 B 
  []
 
 
-Underfull \hbox (badness 10000) detected at line 169
+Underfull \hbox (badness 10000) detected at line 175
 \OT1/txr/m/n/10 C 
  []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
 <Definitions/elsevier-logo-5p.pdf, id=4, 54.08205pt x 59.7432pt>
 File: Definitions/elsevier-logo-5p.pdf Graphic file (type pdf)
 <use Definitions/elsevier-logo-5p.pdf>
-Package pdftex.def Info: Definitions/elsevier-logo-5p.pdf  used on input line 177.
+Package pdftex.def Info: Definitions/elsevier-logo-5p.pdf  used on input line 183.
 (pdftex.def)             Requested size: 54.0819pt x 59.74303pt.
-LaTeX Font Info:    Trying to load font information for OT1+txss on input line 177.
- (C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex/latex/txfonts\ot1txss.fd
+LaTeX Font Info:    Trying to load font information for OT1+txss on input line 183.
+(C:\Users\M.Frank\AppData\Roaming\MiKTeX\tex/latex/txfonts\ot1txss.fd
 File: ot1txss.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 177.
+(Font)              scaled to size 8.54997pt on input line 183.
 <Definitions/SDlogo-5p.pdf, id=5, 96.36pt x 13.04875pt>
 File: Definitions/SDlogo-5p.pdf Graphic file (type pdf)
 <use Definitions/SDlogo-5p.pdf>
-Package pdftex.def Info: Definitions/SDlogo-5p.pdf  used on input line 177.
+Package pdftex.def Info: Definitions/SDlogo-5p.pdf  used on input line 183.
 (pdftex.def)             Requested size: 96.35974pt x 13.0487pt.
 Package epstopdf Info: Source file: <Definitions/Procir.eps>
 (epstopdf)                    date: 2024-06-28 15:04:36
@@ -755,7 +752,7 @@ Package epstopdf Info: Source file: <Definitions/Procir.eps>
 (epstopdf)                    date: 2024-06-28 15:04:36
 (epstopdf)                    size: 25760 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=Definitions/Procir-eps-converted-to.pdf Definitions/Procir.eps>
-(epstopdf)             \includegraphics on input line 177.
+(epstopdf)             \includegraphics on input line 183.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -763,15 +760,15 @@ pdfTeX warning: pdflatex (file ./Definitions/Procir-eps-converted-to.pdf): PDF i
 <Definitions/Procir-eps-converted-to.pdf, id=6, 81.30376pt x 60.225pt>
 File: Definitions/Procir-eps-converted-to.pdf Graphic file (type pdf)
 <use Definitions/Procir-eps-converted-to.pdf>
-Package pdftex.def Info: Definitions/Procir-eps-converted-to.pdf  used on input line 177.
+Package pdftex.def Info: Definitions/Procir-eps-converted-to.pdf  used on input line 183.
 (pdftex.def)             Requested size: 81.30354pt x 60.22484pt.
 File: Definitions/elsevier-logo-5p.pdf Graphic file (type pdf)
 <use Definitions/elsevier-logo-5p.pdf>
-Package pdftex.def Info: Definitions/elsevier-logo-5p.pdf  used on input line 177.
+Package pdftex.def Info: Definitions/elsevier-logo-5p.pdf  used on input line 183.
 (pdftex.def)             Requested size: 54.0819pt x 59.74303pt.
 File: Definitions/SDlogo-5p.pdf Graphic file (type pdf)
 <use Definitions/SDlogo-5p.pdf>
-Package pdftex.def Info: Definitions/SDlogo-5p.pdf  used on input line 177.
+Package pdftex.def Info: Definitions/SDlogo-5p.pdf  used on input line 183.
 (pdftex.def)             Requested size: 96.35974pt x 13.0487pt.
 Package epstopdf Info: Source file: <Definitions/Procir.eps>
 (epstopdf)                    date: 2024-06-28 15:04:36
@@ -780,11 +777,11 @@ Package epstopdf Info: Source file: <Definitions/Procir.eps>
 (epstopdf)                    date: 2024-06-28 15:04:36
 (epstopdf)                    size: 25760 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=Definitions/Procir-eps-converted-to.pdf Definitions/Procir.eps>
-(epstopdf)             \includegraphics on input line 177.
+(epstopdf)             \includegraphics on input line 183.
 Package epstopdf Info: Output file is already uptodate.
 File: Definitions/Procir-eps-converted-to.pdf Graphic file (type pdf)
 <use Definitions/Procir-eps-converted-to.pdf>
-Package pdftex.def Info: Definitions/Procir-eps-converted-to.pdf  used on input line 177.
+Package pdftex.def Info: Definitions/Procir-eps-converted-to.pdf  used on input line 183.
 (pdftex.def)             Requested size: 81.30354pt x 60.22484pt.
 
 Overfull \vbox (62.46999pt too high) has occurred while \output is active []
@@ -796,64 +793,64 @@ Overfull \vbox (35.45999pt too high) has occurred while \output is active []
 
 
  <./Definitions/elsevier-logo-5p.pdf> <./Definitions/SDlogo-5p.pdf> <./Definitions/Procir-eps-converted-to.pdf>]
-Underfull \hbox (badness 10000) detected at line 194
+Underfull \hbox (badness 10000) detected at line 200
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--232
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
 []\OT1/txr/m/n/10 Please ti-tle your files in this or-der `pro-ce-dia
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--232
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
 \OT1/txr/m/n/10 acronym[]conference acronym[]authorslastname'. Sub-mit
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--235
+Underfull \hbox (badness 10000) in paragraph at lines 239--241
 []\OT1/txr/m/n/10 Artwork file-names should com-ply with the syn-tax
  []
 
 <Definitions/gr1.pdf, id=33, 386.21089pt x 99.44353pt>
 File: Definitions/gr1.pdf Graphic file (type pdf)
 <use Definitions/gr1.pdf>
-Package pdftex.def Info: Definitions/gr1.pdf  used on input line 248.
+Package pdftex.def Info: Definitions/gr1.pdf  used on input line 254.
 (pdftex.def)             Requested size: 386.20995pt x 99.44327pt.
 [2]
-Underfull \hbox (badness 3019) in paragraph at lines 260--261
+Underfull \hbox (badness 3019) in paragraph at lines 266--267
 []\OT1/txr/m/n/10 All fig-ures should be num-bered with Ara-bic nu-mer-
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 260--261
+Underfull \hbox (badness 1742) in paragraph at lines 266--267
 \OT1/txr/m/n/10 als (1,2,3,$ [] \OML/txmi/m/it/10 :$\OT1/txr/m/n/10 ). Ev-ery fig-ure should have a cap-tion. All
  []
 
 
-Underfull \hbox (badness 5105) in paragraph at lines 260--261
+Underfull \hbox (badness 5105) in paragraph at lines 266--267
 \OT1/txr/m/n/10 photographs, schemas, graphs and di-a-grams are to be
  []
 
 
-Underfull \hbox (badness 4779) in paragraph at lines 260--261
+Underfull \hbox (badness 4779) in paragraph at lines 266--267
 \OT1/txr/m/n/10 re-ferred to as fig-ures. Line draw-ings should be good
  []
 
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <10> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 262.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 268.
 
-Underfull \hbox (badness 1668) in paragraph at lines 262--263
+Underfull \hbox (badness 1668) in paragraph at lines 268--269
 \OT1/txr/m/n/10 the il-lus-tra-tion in 8 pt and left jus-ti-fied [\OT1/txr/bx/it/10 Note: \OT1/txr/m/n/10 one-line
  []
 
 
-Underfull \hbox (badness 7099) in paragraph at lines 262--263
+Underfull \hbox (badness 7099) in paragraph at lines 268--269
 \OT1/txr/m/n/10 information to help you sub-mit high qual-ity art-work
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--263
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
 \OT1/txr/m/n/10 please visit: http://www.elsevier.com/artworkinstructions
  []
 
@@ -877,7 +874,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,14n,76p,950b,437s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Users/M.Frank/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtcxr.pfb><C:/Users/M.Frank/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxi.pfb><C:/Users/M.Frank/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxmi.pfb><C:/Users/M.Frank/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><C:/Users/M.Frank/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/txex.pfb><C:/Users/M.Frank/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/txsy.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on contribution.pdf (4 pages, 231128 bytes).
+Output written on contribution.pdf (4 pages, 231767 bytes).
 PDF statistics:
  138 PDF objects out of 1000 (max. 8388607)
  26 named destinations out of 1000 (max. 500000)
