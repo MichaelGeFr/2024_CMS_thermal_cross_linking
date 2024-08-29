@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex contribution"] 1720514732.9467 "contribution.aux" "contribution.bbl" "contribution" 1724916069.23089 0
-  "./Definitions/bibliography.bib" 1719579876 541 eb13cf498167beee593bfb74cbc8bca9 ""
-  "./Definitions/elsarticle-num.bst" 1719579876 30973 7a0f51446148f05296b4edf3dee7e16c ""
-  "contribution.aux" 1724916068 2846 af8181320f05e36df79027ad7ad1589e "pdflatex"
+["bibtex contribution"] 1724918163.48038 "contribution.aux" "contribution.bbl" "contribution" 1724918166.93734 0
+  "./Definitions/bibliography.bib" 1724916150 541 eb13cf498167beee593bfb74cbc8bca9 ""
+  "./Definitions/elsarticle-num.bst" 1724916150 30973 7a0f51446148f05296b4edf3dee7e16c ""
+  "contribution.aux" 1724918165 2846 af8181320f05e36df79027ad7ad1589e "pdflatex"
   (generated)
   "contribution.bbl"
   "contribution.blg"
   (rewritten before read)
-["pdflatex"] 1724916066.02554 "c:/Users/M.Frank/Documents/GitHub/2025_cms_algorithmic_energy_productivity_increase/CMS_2025/contribution.tex" "contribution.pdf" "contribution" 1724916069.23198 0
+["pdflatex"] 1724918163.96786 "c:/Users/M.Frank/Documents/GitHub/2025_cms_algorithmic_energy_productivity_increase/CMS_2025/contribution.tex" "contribution.pdf" "contribution" 1724918166.93882 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/symbol/psyr.tfm" 1136768654 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768654 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
@@ -134,17 +134,17 @@
   "C:/Users/M.Frank/AppData/Roaming/MiKTeX/tex/latex/txfonts/utxexa.fd" 977342760 310 1b00b0b05685b816e4c6caccce437e0d ""
   "C:/Users/M.Frank/AppData/Roaming/MiKTeX/tex/latex/txfonts/utxmia.fd" 977342760 334 87436a82076ca2e35cd305f852507afc ""
   "C:/Users/M.Frank/AppData/Roaming/MiKTeX/tex/latex/txfonts/utxsyc.fd" 977342760 310 4b5d6fe830337242ef847b3bff48ba21 ""
-  "Definitions/Procir.eps" 1719579876 1814915 d47442349dcfa87666850192527706b4 ""
-  "Definitions/SDlogo-5p.pdf" 1719579876 13111 fc1e8a13855056a699ede145d31993f2 ""
-  "Definitions/ecrc.sty" 1720443580 17022 e7d1875dcfa59ec6c50cab1ea1705def ""
-  "Definitions/elsarticle.cls" 1719579876 31843 45a09aeb73897eac00495eb9bb8514b2 ""
-  "Definitions/elsevier-logo-5p.pdf" 1719579876 1496269 6d2701b6d282a90964ce5f7ec8b6bdcf ""
-  "Definitions/gr1.pdf" 1719579876 69208 f8a08c02c9f20296cf1cd29f436ff8bb ""
-  "c:/Users/M.Frank/Documents/GitHub/2025_cms_algorithmic_energy_productivity_increase/CMS_2025/contribution.tex" 1724916064 17217 2166b507ae4b47615ed993adeb6e19a2 ""
-  "contribution.aux" 1724916068 2846 af8181320f05e36df79027ad7ad1589e "pdflatex"
-  "contribution.bbl" 1720514733 754 d3e130674d34bd32b77176d4a31967c9 "bibtex contribution"
-  "contribution.spl" 1724916066 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "contribution.tex" 1724916064 17217 2166b507ae4b47615ed993adeb6e19a2 ""
+  "Definitions/Procir.eps" 1724916150 1814915 d47442349dcfa87666850192527706b4 ""
+  "Definitions/SDlogo-5p.pdf" 1724916150 13111 fc1e8a13855056a699ede145d31993f2 ""
+  "Definitions/ecrc.sty" 1724918155 17022 a2f7d029cd40da22c80ea7234e44bf95 ""
+  "Definitions/elsarticle.cls" 1724916150 31843 45a09aeb73897eac00495eb9bb8514b2 ""
+  "Definitions/elsevier-logo-5p.pdf" 1724916150 1496269 6d2701b6d282a90964ce5f7ec8b6bdcf ""
+  "Definitions/gr1.pdf" 1724916150 69208 f8a08c02c9f20296cf1cd29f436ff8bb ""
+  "c:/Users/M.Frank/Documents/GitHub/2025_cms_algorithmic_energy_productivity_increase/CMS_2025/contribution.tex" 1724918158 17217 2166b507ae4b47615ed993adeb6e19a2 ""
+  "contribution.aux" 1724918165 2846 af8181320f05e36df79027ad7ad1589e "pdflatex"
+  "contribution.bbl" 1724918163 754 d3e130674d34bd32b77176d4a31967c9 "bibtex contribution"
+  "contribution.spl" 1724918164 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "contribution.tex" 1724918158 17217 2166b507ae4b47615ed993adeb6e19a2 ""
   (generated)
   "contribution.aux"
   "contribution.log"
