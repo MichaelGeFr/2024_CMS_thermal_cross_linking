@@ -1,6 +1,6 @@
-PWD c:\Users\M.Frank\Documents\GitHub\2024_CMS_thermal_cross_linking\CMS_2024
+PWD c:\Users\M.Frank\Documents\GitHub\2025_cms_algorithmic_energy_productivity_increase\CMS_2025
 INPUT C:\Users\M.Frank\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\M.Frank\Documents\GitHub\2024_CMS_thermal_cross_linking\CMS_2024\contribution.tex
+INPUT c:\Users\M.Frank\Documents\GitHub\2025_cms_algorithmic_energy_productivity_increase\CMS_2025\contribution.tex
 OUTPUT contribution.log
 INPUT .\Definitions\elsarticle.cls
 INPUT .\Definitions\elsarticle.cls

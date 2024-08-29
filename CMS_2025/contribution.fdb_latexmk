@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex contribution"] 1720514732.9467 "contribution.aux" "contribution.bbl" "contribution" 1720514855.6118 0
+["bibtex contribution"] 1720514732.9467 "contribution.aux" "contribution.bbl" "contribution" 1724916069.23089 0
   "./Definitions/bibliography.bib" 1719579876 541 eb13cf498167beee593bfb74cbc8bca9 ""
   "./Definitions/elsarticle-num.bst" 1719579876 30973 7a0f51446148f05296b4edf3dee7e16c ""
-  "contribution.aux" 1720514854 2846 af8181320f05e36df79027ad7ad1589e "pdflatex"
+  "contribution.aux" 1724916068 2846 af8181320f05e36df79027ad7ad1589e "pdflatex"
   (generated)
   "contribution.bbl"
   "contribution.blg"
   (rewritten before read)
-["pdflatex"] 1720514852.6159 "c:/Users/M.Frank/Documents/GitHub/2024_CMS_thermal_cross_linking/CMS_2024/contribution.tex" "contribution.pdf" "contribution" 1720514855.61292 0
+["pdflatex"] 1724916066.02554 "c:/Users/M.Frank/Documents/GitHub/2025_cms_algorithmic_energy_productivity_increase/CMS_2025/contribution.tex" "contribution.pdf" "contribution" 1724916069.23198 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/symbol/psyr.tfm" 1136768654 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768654 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
@@ -60,7 +60,7 @@
   "C:/Program Files/MiKTeX/tex/latex/hyperref/puenc.def" 1675853528 117125 aa115cac3914abcf3769f370e6325117 ""
   "C:/Program Files/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1680182075 29768 5600b3a98028e2e01b60e7f98fbf4b9c ""
   "C:/Program Files/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "C:/Users/M.Frank/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719832012 84337 09a9ad228ef7e34d6f9cbf497373c91e ""
+  "C:/Users/M.Frank/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722947491 281641 c34d0a46b274df730a892061bf94f162 ""
   "C:/Users/M.Frank/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1714112461 23169151 0482bfc02fdd434919ec4b30429bef89 ""
   "C:/Users/M.Frank/AppData/Roaming/MiKTeX/fonts/tfm/public/txfonts/rtcxr.tfm" 977342760 1368 7af309acf53bb727783600185f629f47 ""
   "C:/Users/M.Frank/AppData/Roaming/MiKTeX/fonts/tfm/public/txfonts/rtxb.tfm" 977342760 1020 c53143d3e3747b5c1149bd9a5ecd7b55 ""
@@ -140,11 +140,11 @@
   "Definitions/elsarticle.cls" 1719579876 31843 45a09aeb73897eac00495eb9bb8514b2 ""
   "Definitions/elsevier-logo-5p.pdf" 1719579876 1496269 6d2701b6d282a90964ce5f7ec8b6bdcf ""
   "Definitions/gr1.pdf" 1719579876 69208 f8a08c02c9f20296cf1cd29f436ff8bb ""
-  "c:/Users/M.Frank/Documents/GitHub/2024_CMS_thermal_cross_linking/CMS_2024/contribution.tex" 1720514851 17193 a155539be47be729dd657f829365f5a1 ""
-  "contribution.aux" 1720514854 2846 af8181320f05e36df79027ad7ad1589e "pdflatex"
+  "c:/Users/M.Frank/Documents/GitHub/2025_cms_algorithmic_energy_productivity_increase/CMS_2025/contribution.tex" 1724916064 17217 2166b507ae4b47615ed993adeb6e19a2 ""
+  "contribution.aux" 1724916068 2846 af8181320f05e36df79027ad7ad1589e "pdflatex"
   "contribution.bbl" 1720514733 754 d3e130674d34bd32b77176d4a31967c9 "bibtex contribution"
-  "contribution.spl" 1720514853 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "contribution.tex" 1720514851 17193 a155539be47be729dd657f829365f5a1 ""
+  "contribution.spl" 1724916066 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "contribution.tex" 1724916064 17217 2166b507ae4b47615ed993adeb6e19a2 ""
   (generated)
   "contribution.aux"
   "contribution.log"
